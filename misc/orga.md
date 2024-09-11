@@ -10,7 +10,7 @@
 * Organize to have a computer, camera and microphone for the course
 * Download and install required software
 * Fill in our pre-workshop survey
-* **Find a spot of vegetation close to you that you can visit to collect data during the course**
+* ❗ **Find a spot of vegetation close to you that you can visit to collect data during the course** :deciduous_tree: 🌲🌿
 
 ### During the course
 
