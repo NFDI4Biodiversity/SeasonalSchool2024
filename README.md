@@ -53,6 +53,7 @@ Please refer to [this list of resources](misc/install.md) if you need help with 
 * 10:40 - 12:10 | Lecture 2 - FAIR tools & processes to be used
 * 12:10 - 13:00 | :fork_and_knife: Break
 * 13:00 - 15:00 | Practical Session 1 - Create a Data Management Plan (DMP)
+* 15:00 - 15:10 | 📌 Wrap-up and outlook
 
 ### Day 2
 
@@ -62,6 +63,7 @@ Please refer to [this list of resources](misc/install.md) if you need help with 
 * 10:40 - 12:10 | Lecture 4 - Legal aspects
 * 12:10 - 13:00 | :fork_and_knife: Break
 * 13:00 - 15:00 | Practical Session 2 - Sampling and handling spatial data using QField
+* 15:00 - 15:10 | 📌 Wrap-up and outlook
 
 ### Day 3
 
@@ -71,6 +73,7 @@ Please refer to [this list of resources](misc/install.md) if you need help with 
 * 10:40 - 12:10 | Lecture 6 - Data standards
 * 12:10 - 13:00 | :fork_and_knife: Break
 * 13:00 - 15:00 | Practical Session 3 - Data integration & annotation
+* 15:00 - 15:10 | 📌 Wrap-up and outlook
 
 ### Day 4
 
@@ -80,6 +83,7 @@ Please refer to [this list of resources](misc/install.md) if you need help with 
 * 10:40 - 12:10 | Lecture 8 - Publishing your workflow, analysis, scripts using Jupyter, Git and software management tools
 * 12:10 - 13:00 | :fork_and_knife: Break
 * 13:00 - 15:00 | Practical Session 4 - Jupyter Hub
+* 15:00 - 15:10 | 📌 Wrap-up and outlook
 
 ### Day 5
 
