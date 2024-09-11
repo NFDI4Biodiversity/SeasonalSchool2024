@@ -21,6 +21,7 @@ You will need a computer where you can install programs, a camera and microphone
 ### Prepare for the workshop
 
 * fill in our pre-workshop survey
+* ❗ **Find a spot of vegetation close to you that you can visit to collect data during the course** :deciduous_tree: 🌲🌿
 * install or update the following programs on your local computer
   * required
     * R
@@ -31,7 +32,7 @@ You will need a computer where you can install programs, a camera and microphone
   * optional
     * Jupyter (local)
     * Git
-
+ 
 Please refer to [this list of resources](https://github.com/NFDI4Biodiversity/SeasonalSchool2024/misc/install.md) if you need help with installations.
 
 ### During the workshop
