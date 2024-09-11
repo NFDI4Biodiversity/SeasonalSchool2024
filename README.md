@@ -14,15 +14,44 @@
 
 #### xx (iDiv)
 
+## Requirements
+
+You will need a computer where you can install programs, a camera and microphone, and a stable internet connection during the course.
+
+### Prepare for the workshop
+
+* fill in our pre-workshop survey
+* install or update the following programs on your local computer
+  * required
+    * R
+    * RStudio
+    * OpenRefine
+    * RightField
+    * QField
+  * optional
+    * Jupyter (local)
+    * Git
+
+Please refer to [this list of resources](https://github.com/NFDI4Biodiversity/SeasonalSchool2024/misc/install.md) if you need help with installations.
+
+### During the workshop
+
+### After the workshop
+
+* fill in our post-workshop survey
+* find additional resources and details on future workshops on our website https://www.nfdi4biodiversity.org
+* find additional resources here xx
+
 ## Schedule
 
 ### Day 1
 
-#### Warm-up
-
-#### Lecture 1 - xx
-
-xx
+* 08:30 - 09:30 Warm-up
+* 09:30 - 10:30 Lecture 1 - Research Data Management & Data Literacy
+* 10:30 - 10:40 Break
+* clock1040 10:40 - 12:10 Lecture 2 - FAIR Tools & Processes to be used
+* clock1210 12:10 - 13:00 Break
+* clock13 13:00 - 15:00 Practical Session 1 - Create a Data Management Plan (DMP)
 
 ### Day 2
 
@@ -31,52 +60,6 @@ xx
 ### Day 4
 
 ### Day 5
-
-## Requirements
-
-### Prepare for the workshop
-
-#### Participants
-
-#### Lecturers
-
-#### Organizers
-
-### During the workshop
-
-#### Participants
-
-#### Lecturers
-
-#### Organizers
-
-### After the workshop
-
-#### Participants
-
-* fill in our post-workshop survey
-* find additional resources and details on future workshops on our website https://www.nfdi4biodiversity.org
-* find additional resources here xx
-
-#### Lecturers
-
-* decide if you want to publish presentation slides
-  * if yes: publish presentation slides on Zenodo
-    * *IMPORTANT* Please use the keyword "NFDI4BdiversityiDivSeasonalSchool2024" in exactly this format (keywords on Zenodo are case sensitive). This helps to easily find all resources from this workshop on Zenodo.
-* decide if you want us to publish a recording of your lecture
-  * if yes: xx 
-
-#### Organisers
-
-* process & publish recorded lectures
-* include published resources on Zenodo in NFDI4Biodiversity community
-* add links to recorded lectures, to published presentations and to other ressources in this repository
-* analyse survey results to improve workshop
-* add documentation to this repo (incl. "further reading" and the link to the post-workshop surveys for participants and lecturers)
-* publish documentation on Zenodo
-
-
-## How to install
 
 ## List of authors/contributors
 
