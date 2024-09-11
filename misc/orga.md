@@ -68,38 +68,35 @@ discuss technical requirements and lecture contents
 ## Organizers
 
 * Develop the format and decide on the topics
-* Invite lecturers
-* Set-up a programming environment for the course (tools: Jupyter, BinderHub,
-Python, RStudio)
-* Organize pre-course meetings of all lecturers to discuss technical
-requirements and lecture contents
-* Set-up an [event website]() and [application form]() (tool: Indico)
-* Advertise the course on the project website, via mailing lists and Twitter
-* Select participants from applications and create a waiting list as long as the
-course’s capacity
-* Inform participants, applicants on the waiting list, and unsuccessful
-applicants
-* Set-up a virtual room on a video conference platform
-* Circulate information on technical requirements for participants
-* Inform lecturers about the level of programming skills of the participants
-* Organize an extra meeting to discuss details of the technical platform
-
-* surveys
-  * decide on platform
-  * prepare and open pre-workshop survey
-  * prepare post-workshop survey
-* prepare consent form for lecture recordings and publication
-* prepare certificates of participation
+* Set-up an [event website](https://nfdi4biodiversity.org/de/events/seasonalschool-2024/) and [application form](https://events.gfbio.org/event/53/) (tool: Indico)
+* Communication with lecturers
+  * Invite lecturers
+  * Organize pre-course meetings of all lecturers to discuss technical requirements and lecture contents
+  * Inform lecturers about the level of programming skills of the participants
+  * Organize an extra meeting to discuss details of the technical platform
+* Communication with participants
+  * Advertise the course on the [project website](https://nfdi4biodiversity.org/), via mailing lists and [LinkedIn](http://www.linkedin.com/company/nfdi4biodiv)
+  * Inform participants, applicants on the waiting list, and unsuccessful applicants
+  * Circulate information on technical requirements for participants
+  * Invite participants to fill in our pre-wprkshop survey
+* Technical set-up
+  * Set-up a programming environment for the course (tools: Jupyter, BinderHub, Python, RStudio)
+  * Set-up a virtual room on a video conference platform 
+* Select participants from applications and create a waiting list as long as the course’s capacity
+* Surveys
+  * Decide on platform
+  * Prepare and open pre-workshop survey
+  * Prepare post-workshop survey
+* Prepare consent form for lecture recordings and publication
+* Prepare certificates of participation
 
 ### During the workshop
 
 * Open the virtual room 30 min before the lecture
 * Warm-Up session
-* Hosting the lectures, incl. time-keeping
-* Record lectures (but not practical sessions to facilitate exchange between
-lecturers and participants)
-* Keep notes during lectures and practical session about questions that need
-a follow-up, or suggestions for improvements
+* Host lectures, incl. time-keeping
+* Record lectures (but not practical sessions to facilitate exchange between lecturers and participants)
+* Keep notes during lectures and practical session about questions that need a follow-up, or suggestions for improvements
 * Wrap-up and outlook for the next day
 
 ### After the workshop
