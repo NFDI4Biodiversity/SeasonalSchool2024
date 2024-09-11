@@ -46,20 +46,48 @@ Please refer to [this list of resources](https://github.com/NFDI4Biodiversity/Se
 
 ### Day 1
 
-* 08:30 - 09:30 Warm-up
-* 09:30 - 10:30 Lecture 1 - Research Data Management & Data Literacy
-* 10:30 - 10:40 Break
-* clock1040 10:40 - 12:10 Lecture 2 - FAIR Tools & Processes to be used
-* clock1210 12:10 - 13:00 Break
-* clock13 13:00 - 15:00 Practical Session 1 - Create a Data Management Plan (DMP)
+* 08:30 - 09:30 | :sun_with_face: Warm-up
+* 09:30 - 10:30 | Lecture 1 - Research Data Management & Data Literacy
+* 10:30 - 10:40 | :tea: Break :coffee:
+* 10:40 - 12:10 | Lecture 2 - FAIR tools & processes to be used
+* 12:10 - 13:00 | :fork_and_knife: Break
+* 13:00 - 15:00 | Practical Session 1 - Create a Data Management Plan (DMP)
 
 ### Day 2
 
+* 08:30 - 09:00 | :sun_with_face: Warm-up
+* 09:00 - 10:30 | Lecture 3 - Investigating biodiversity data using open-access databases: following FAIR data principles
+* 10:30 - 10:40 | :tea: Break :coffee:
+* 10:40 - 12:10 | Lecture 4 - Legal aspects
+* 12:10 - 13:00 | :fork_and_knife: Break
+* 13:00 - 15:00 | Practical Session 2 - Sampling and handling spatial data using QField
+
 ### Day 3
+
+* 08:30 - 09:00 | :sun_with_face: Warm-up
+* 09:00 - 10:30 | Lecture 5 - Taxonomic harmonization
+* 10:30 - 10:40 | :tea: Break :coffee:
+* 10:40 - 12:10 | Lecture 6 - Data standards
+* 12:10 - 13:00 | :fork_and_knife: Break
+* 13:00 - 15:00 | Practical Session 3 - Data integration & annotation
 
 ### Day 4
 
+* 08:30 - 09:00 | :sun_with_face: Warm-up
+* 09:00 - 10:30 | Lecture 7 - Data analysis & visualisation according to FAIR principles
+* 10:30 - 10:40 | :tea: Break :coffee:
+* 10:40 - 12:10 | Lecture 8 - Publishing your workflow, analysis, scripts using Jupyter, Git and software management tools
+* 12:10 - 13:00 | :fork_and_knife: Break
+* 13:00 - 15:00 | Practical Session 4 - Jupyter Hub
+
 ### Day 5
+
+* 08:30 - 09:00 | :sun_with_face: Warm-up
+* 09:00 - 10:30 | Lecture 9 - Data publication & archiving
+* 10:30 - 10:40 | :tea: Break :coffee:
+* 10:40 - 13:00 | Practical Session 5 - Publishing data
+* 13:00 - 13:30 | :tea: Break :coffee:
+* 13:30 - 14:00 | Resumée
 
 ## List of authors/contributors
 
