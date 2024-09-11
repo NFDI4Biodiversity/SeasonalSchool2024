@@ -33,7 +33,7 @@ You will need a computer where you can install programs, a camera and microphone
     * Jupyter (local)
     * Git
  
-Please refer to [this list of resources](https://github.com/NFDI4Biodiversity/SeasonalSchool2024/misc/install.md) if you need help with installations.
+Please refer to [this list of resources](misc/install.md) if you need help with installations.
 
 ### During the workshop
 
