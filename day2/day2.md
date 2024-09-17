@@ -3,11 +3,11 @@
 ## Schedule
 
 * 08:30 - 09:00 | :sun_with_face: Warm-up
-* 09:00 - 10:30 | Lecture 3 - Investigating biodiversity data using open-access databases: following FAIR data principles
+* 09:00 - 10:30 | [Lecture 3 - Investigating biodiversity data using open-access databases: following FAIR data principles](lecture3/lecture3.md)
 * 10:30 - 10:40 | :tea: Break :coffee:
-* 10:40 - 12:10 | Lecture 4 - Legal aspects
+* 10:40 - 12:10 | [Lecture 4 - Legal aspects](lecture4/lecture4.md)
 * 12:10 - 13:00 | :fork_and_knife: Break
-* 13:00 - 15:00 | Practical Session 2 - Sampling and handling spatial data using QField
+* 13:00 - 15:00 | [Practical Session 2 - Sampling and handling spatial data using QField](practical_session2/practical_session2.md)
 * 15:00 - 15:10 | 📌 Wrap-up and outlook
 
 ## Lecture 3 - Investigating biodiversity data using open-access databases: following FAIR data principles
