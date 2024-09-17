@@ -20,18 +20,6 @@ You will learn...
 *    How to integrate data from different sources
 *    How to publish data
 
-### About NFDI4Biodiversity and iDiv
-
-#### NFDI4Biodiversity
-
-[NFDI4Biodiversity](https://nfdi4biodiversity.org) is a consortium of [more than 50 partner institutions](https://www.nfdi4biodiversity.org/en/who-we-are/#d46dea28-40b8-41cd-9c61-8e7dbc4b0a9b) under the umbrella of the German [National Research Data Infrastructure (NFDI)](https://www.nfdi.de/) dedicated to mobilising biodiversity and environmental data for collective use. NFDI4Biodiversity offers [tools and services](https://nfdi4biodiversity.org/en/services/) for working with data, [personal assistance](https://nfdi4biodiversity.org/en/contact/) and practice-oriented [training events](https://nfdi4biodiversity.org/en/training/). Together with its partner network, NFDI4Biodiversity provides a wide range of services for the management of biodiversity, ecology and environmental data.
-
-#### German Centre for Integrative Biodiversity Research (iDiv) Halle-Jena-Leipzig
-
-[iDiv](https://www.idiv.de) is the only DFG-funded research centre and has a unique structure. It is run by [Martin Luther University Halle-Wittenberg (MLU)](https://www.uni-halle.de/?lang=en), [Friedrich Schiller University Jena (University of Jena)](https://www.uni-jena.de/en) and [Leipzig University (UL)](https://www.uni-leipzig.de/en) – and in cooperation with the [Helmholtz Centre for Environmental Research (UFZ)](https://www.ufz.de/index.php?en=33573). The centre is located in Leipzig. 
-
-The science consortium is enhanced through the expertise of the more than 150 active iDiv members, who work on specific aspects of research in various locations and institutions, and also through the collaboration with the following non-university facilities: the Max Planck Institute for Biogeochemistry (MPI BGC), the Max Planck Institute for Chemical Ecology (MPI CE), the Max Planck Institute for Evolutionary Anthropology (MPI EVA), the Leibniz Institute German Collection of Microorganisms and Cell Cultures (DSMZ), the Leibniz Institute of Plant Biochemistry (IPB), the Leibniz Institute of Plant Genetics and Crop Plant Research (IPK), and the Leibniz Institute Senckenberg Museum of Natural History (SMNG).
-
 ## Requirements
 
 You will need a computer where you can install programs, a camera and microphone, and a stable internet connection during the course.
@@ -110,7 +98,7 @@ Please refer to [this list of resources](misc/install.md) if you need help with 
 * 10:30 - 10:40 | :tea: Break :coffee:
 * 10:40 - 13:00 | Practical Session 5 - Publishing data
 * 13:00 - 13:30 | :tea: Break :coffee:
-* 13:30 - 14:00 | Resumée
+* 13:30 - 14:00 | 📌 Resumée
 
 ## List of authors/contributors
 
@@ -119,3 +107,16 @@ Please refer to [this list of resources](misc/install.md) if you need help with 
 ## License
 
 ## Further reading
+
+## About NFDI4Biodiversity and iDiv
+
+### NFDI4Biodiversity
+
+[NFDI4Biodiversity](https://nfdi4biodiversity.org) is a consortium of [more than 50 partner institutions](https://www.nfdi4biodiversity.org/en/who-we-are/#d46dea28-40b8-41cd-9c61-8e7dbc4b0a9b) under the umbrella of the German [National Research Data Infrastructure (NFDI)](https://www.nfdi.de/) dedicated to mobilising biodiversity and environmental data for collective use. NFDI4Biodiversity offers [tools and services](https://nfdi4biodiversity.org/en/services/) for working with data, [personal assistance](https://nfdi4biodiversity.org/en/contact/) and practice-oriented [training events](https://nfdi4biodiversity.org/en/training/). Together with its partner network, NFDI4Biodiversity provides a wide range of services for the management of biodiversity, ecology and environmental data.
+
+### German Centre for Integrative Biodiversity Research (iDiv) Halle-Jena-Leipzig
+
+[iDiv](https://www.idiv.de) is the only DFG-funded research centre and has a unique structure. It is run by [Martin Luther University Halle-Wittenberg (MLU)](https://www.uni-halle.de/?lang=en), [Friedrich Schiller University Jena (University of Jena)](https://www.uni-jena.de/en) and [Leipzig University (UL)](https://www.uni-leipzig.de/en) – and in cooperation with the [Helmholtz Centre for Environmental Research (UFZ)](https://www.ufz.de/index.php?en=33573). The centre is located in Leipzig. 
+
+The science consortium is enhanced through the expertise of the more than 150 active iDiv members, who work on specific aspects of research in various locations and institutions, and also through the collaboration with the following non-university facilities: the Max Planck Institute for Biogeochemistry (MPI BGC), the Max Planck Institute for Chemical Ecology (MPI CE), the Max Planck Institute for Evolutionary Anthropology (MPI EVA), the Leibniz Institute German Collection of Microorganisms and Cell Cultures (DSMZ), the Leibniz Institute of Plant Biochemistry (IPB), the Leibniz Institute of Plant Genetics and Crop Plant Research (IPK), and the Leibniz Institute Senckenberg Museum of Natural History (SMNG).
+
