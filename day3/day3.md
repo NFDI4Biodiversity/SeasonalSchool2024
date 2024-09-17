@@ -3,11 +3,11 @@
 ## Schedule
 
 * 08:30 - 09:00 | :sun_with_face: Warm-up
-* 09:00 - 10:30 | Lecture 5 - Taxonomic harmonization
+* 09:00 - 10:30 | [Lecture 5 - Taxonomic harmonization](lecture5/lecture5.md)
 * 10:30 - 10:40 | :tea: Break :coffee:
-* 10:40 - 12:10 | Lecture 6 - Data standards
+* 10:40 - 12:10 | [Lecture 6 - Data standards](lecture6/lecture6.md)
 * 12:10 - 13:00 | :fork_and_knife: Break
-* 13:00 - 15:00 | Practical Session 3 - Data integration & annotation
+* 13:00 - 15:00 | [Practical Session 3 - Data integration & annotation](practical_session3/practical_session3.md)
 * 15:00 - 15:10 | 📌 Wrap-up and outlook
 
 ## Lecture 5 - Taxonomic harmonization
