@@ -3,11 +3,11 @@
 ## Schedule
 
 * 08:30 - 09:30 | :sun_with_face: Warm-up
-* 09:30 - 10:30 | [Lecture 1 - Research Data Management & Data Literacy](/day1/lecture1.md)
+* 09:30 - 10:30 | [Lecture 1 - Research Data Management & Data Literacy](day1/lecture1)
 * 10:30 - 10:40 | :tea: Break :coffee:
-* 10:40 - 12:10 | Lecture 2 - FAIR tools & processes to be used
+* 10:40 - 12:10 | [Lecture 2 - FAIR tools & processes to be used](day1/lecture2)
 * 12:10 - 13:00 | :fork_and_knife: Break
-* 13:00 - 15:00 | Practical Session 1 - Create a Data Management Plan (DMP)
+* 13:00 - 15:00 | [Practical Session 1 - Create a Data Management Plan (DMP)](day1/practical_session1)
 * 15:00 - 15:10 | 📌 Wrap-up and outlook
 
 
