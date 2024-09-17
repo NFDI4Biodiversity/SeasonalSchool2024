@@ -4,15 +4,33 @@
 
 ## About this workshop
 
+The **NFDI4Biodiversity & iDiv Seasonal School on Data Management in Biodiversity and Environmental Science** is a collaboration between the [German Centre for Integrative Biodiversity Research (iDiv)](https://www.idiv.de) and the [NFDI4Biodiversity](https://nfdi4biodiversity.org) consortium. This course offers cutting-edge skills and knowledge essential for handling scientific data throughout its life cycle. The intensive five-day program combines direct knowledge transfer with practical lessons to introduce participants to fundamental and advanced tools in research data management (RDM), tailored to enhance their future careers.
+
 ### Scope
 
+Participants will engage in a simulated scientific project that covers the entire data life cycle (DLC): data collection, integration from databases, quality control, visualization, and data publication. Using the GFBio DMP Tool, attendees will create a Data Management Plan (DMP) and map local plant occurrences with QField. They will also integrate datasets from repositories like PANGAEA, utilize Jupyter and R for data analysis and visualization, and learn how to publish data on platforms such as PANGAEA and GBIF.
+
 ### Learning outcomes
+
+You will learn...
+*    How to create a data management plan
+*    How to use Jupyter in combination with R (and Python) as working environment
+*    Legal aspects of handling data
+*    How to handle spatial data
+*    How to integrate data from different sources
+*    How to publish data
 
 ### About NFDI4Biodiversity and iDiv
 
 #### NFDI4Biodiversity
 
-#### xx (iDiv)
+[NFDI4Biodiversity](https://nfdi4biodiversity.org) is a consortium of [more than 50 partner institutions](https://www.nfdi4biodiversity.org/en/who-we-are/#d46dea28-40b8-41cd-9c61-8e7dbc4b0a9b) under the umbrella of the German [National Research Data Infrastructure (NFDI)](https://www.nfdi.de/) dedicated to mobilising biodiversity and environmental data for collective use. NFDI4Biodiversity offers [tools and services](https://nfdi4biodiversity.org/en/services/) for working with data, [personal assistance](https://nfdi4biodiversity.org/en/contact/) and practice-oriented [training events](https://nfdi4biodiversity.org/en/training/). Together with its partner network, NFDI4Biodiversity provides a wide range of services for the management of biodiversity, ecology and environmental data.
+
+#### German Centre for Integrative Biodiversity Research (iDiv) Halle-Jena-Leipzig
+
+[iDiv](https://www.idiv.de) is the only DFG-funded research centre and has a unique structure. It is run by [Martin Luther University Halle-Wittenberg (MLU)](https://www.uni-halle.de/?lang=en), [Friedrich Schiller University Jena (University of Jena)](https://www.uni-jena.de/en) and [Leipzig University (UL)](https://www.uni-leipzig.de/en) – and in cooperation with the [Helmholtz Centre for Environmental Research (UFZ)](https://www.ufz.de/index.php?en=33573). The centre is located in Leipzig. 
+
+The science consortium is enhanced through the expertise of the more than 150 active iDiv members, who work on specific aspects of research in various locations and institutions, and also through the collaboration with the following non-university facilities: the Max Planck Institute for Biogeochemistry (MPI BGC), the Max Planck Institute for Chemical Ecology (MPI CE), the Max Planck Institute for Evolutionary Anthropology (MPI EVA), the Leibniz Institute German Collection of Microorganisms and Cell Cultures (DSMZ), the Leibniz Institute of Plant Biochemistry (IPB), the Leibniz Institute of Plant Genetics and Crop Plant Research (IPK), and the Leibniz Institute Senckenberg Museum of Natural History (SMNG).
 
 ## Requirements
 
