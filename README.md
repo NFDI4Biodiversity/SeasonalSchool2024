@@ -10,7 +10,7 @@ The **NFDI4Biodiversity & iDiv Seasonal School on Data Management in Biodiversit
 
 Participants will engage in a simulated scientific project that covers the entire data life cycle (DLC): data collection, integration from databases, quality control, visualization, and data publication. Using the GFBio DMP Tool, attendees will create a Data Management Plan (DMP) and map local plant occurrences with QField. They will also integrate datasets from repositories like PANGAEA, utilize Jupyter and R for data analysis and visualization, and learn how to publish data on platforms such as PANGAEA and GBIF.
 
-### Learning outcomes
+### Learning objectives
 
 You will learn...
 *    How to create a data management plan
