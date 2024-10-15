@@ -2,6 +2,8 @@
 
 ## How to use this repository
 
+❗ **Work in progress - repository NOT ready to use yet!** ❗
+
 ## About this workshop
 
 The **NFDI4Biodiversity & iDiv Seasonal School on Data Management in Biodiversity and Environmental Science** is a collaboration between the [German Centre for Integrative Biodiversity Research (iDiv)](https://www.idiv.de) and the [NFDI4Biodiversity](https://nfdi4biodiversity.org) consortium. This course offers cutting-edge skills and knowledge essential for handling scientific data throughout its life cycle. The intensive five-day program combines direct knowledge transfer with practical lessons to introduce participants to fundamental and advanced tools in research data management (RDM), tailored to enhance their future careers.
