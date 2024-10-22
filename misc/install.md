@@ -2,12 +2,11 @@
 
 This is a selection of installation instructions for the tools we use in this course.
 
-
-## OpenRefine
+## OpenRefine (obligatory)
 
 * [How to install and use OpenRefine on various OS (English)](https://openrefine.org/docs)
 
-## Python
+## Python (optional)
 
 * [How to install Python on various OSs (English)](https://realpython.com/installing-python/)
 * [Installing Python with Packages using Anaconda (English, Carpentries)](https://datacarpentry.org/python-ecology-lesson/index.html#setup)
@@ -15,7 +14,7 @@ This is a selection of installation instructions for the tools we use in this co
 * [Video Guide to install Python on MacOS (English)](https://www.youtube.com/watch?v=nhv82tvFfkM)
 * [direct link to python.org (English)](https://www.python.org/downloads/)
 
-## R
+## R (optional)
 
 * [How to install R and RStudio on various OSs (English)](https://rstudio-education.github.io/hopr/starting.html)
 * [Installing R and RStudio (English, Carpentries)](https://datacarpentry.org/R-ecology-lesson/#preparations)
@@ -23,11 +22,16 @@ This is a selection of installation instructions for the tools we use in this co
 * [Video Guide to install R and RStudio on MacOS (English)](https://www.youtube.com/watch?v=I5WIMX4LK8M)
 * [direct link to RStudio, contains link to R](https://posit.co/download/rstudio-desktop/)
 
-## Rightfield
+## Rightfield (obligatory)
 
 * [How to install and use RightField on various OS (English)](https://rightfield.org.uk/guide.html)
 
-## Spreadsheet software
+## Spreadsheet software (obligatory)
 
 * e.g. [LibreOffice](https://www.libreoffice.org)
 * e.g. Windows Excel
+
+## Jupyter (optional)
+
+* [How to re-use Jupyter Notebooks from the Seasonal School](https://sojwolf.github.io/Jupyter_Workshop_Winterschool_2022/3.1_Reuse_Course_Material.html#)
+* [How to install Jupyter on your local computer](https://jupyterlab.readthedocs.io/en/latest/getting_started/installation.html)
