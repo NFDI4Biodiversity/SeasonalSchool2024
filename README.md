@@ -22,14 +22,29 @@ You will learn...
 *    How to integrate data from different sources
 *    How to publish data
 
-## Requirements
+## Requirements <a name="requirements"></a>
 
-You will need a computer where you can install programs, a camera and microphone, and a stable internet connection during the course.
+You will need a computer where you can install programs, a camera and microphone, and a stable internet connection during the course. 
+
+Further, you will need
+* basic knowledge of Git on command line or desktop software
+  * pull and push from remote
+  * recommended:
+    * know how to merge
+* basic knowledge of Python
+  * how to start a Python program from the command line
+* basic knowledge of R
+  * know how to load packages and use functions
+  * loops, variables, input/output
+  * recommended:
+    * R package *data.table*
+    * tidyverse
 
 ### Prepare for the workshop
 
 * fill in our pre-workshop survey
 * ❗ **Find a spot of vegetation close to you that you can visit to collect data during the course** :deciduous_tree: 🌲🌿
+* make sure to adress [requirements](#requirements), i.e. brush-up your Git, Python and R skills
 * register for the following services and organisations
   * necessary
     * ECMWF CDS
