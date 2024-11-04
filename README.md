@@ -2,7 +2,7 @@
 
 ## How to use this repository
 
-❗ **Work in progress - repository NOT ready to use yet!** ❗
+This repository provides details on the schedule, on necessary [accounts and installations](misc/install.md), and links to all available materials used in the course.
 
 ## About this workshop
 
@@ -30,18 +30,26 @@ You will need a computer where you can install programs, a camera and microphone
 
 * fill in our pre-workshop survey
 * ❗ **Find a spot of vegetation close to you that you can visit to collect data during the course** :deciduous_tree: 🌲🌿
+* register for the following services and organisations
+  * necessary
+    * ECMWF CDS
+    * GBIF
+    * GitHub
+    * QFieldCloud
+    * Zenodo (alternative: ORCID)
+  * recommended
+    * ORCID
 * install or update the following programs on your local computer
-  * required
-    * R
-    * RStudio
+  * necessary
     * OpenRefine
     * RightField
     * QField
-  * optional
+    * Spreadsheet software (e.g. LibreOffice, Microsoft Excel)
+  * recommended
     * Jupyter (local)
     * Git
  
-Please refer to [this list of resources](misc/install.md) if you need help with installations.
+❗ Please refer to [this list of resources](misc/install.md) if you need help with accounts or installations.
 
 ### During the workshop
 
