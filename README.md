@@ -45,7 +45,7 @@ Further, you will need
 * fill in our pre-workshop survey
 * ❗ **Find a spot of vegetation close to you that you can visit to collect data during the course** :deciduous_tree: 🌲🌿
 * make sure to adress [requirements](#requirements), i.e. brush-up your Git, Python and R skills
-* register for the following services and organisations
+* register for the following services and organisations (find a list of links and resources [here](misc/install.md))
   * necessary
     * ECMWF CDS
     * GBIF
@@ -54,7 +54,7 @@ Further, you will need
     * Zenodo (alternative: ORCID)
   * recommended
     * ORCID
-* install or update the following programs on your local computer
+* install or update the following programs on your local computer (find a list of links and resources [here](misc/install.md))
   * necessary
     * OpenRefine
     * RightField
