@@ -34,6 +34,10 @@ This is a selection of installation instructions for the tools we use in this co
 
 * [How to install and use OpenRefine on various OS (English)](https://openrefine.org/docs)
 
+#### QField App (on your mobile phone!)
+
+* [Install the QField App on various OS on your mobile phone](https://qfield.org/)
+
 #### Rightfield
 
 * [How to install and use RightField on various OS (English)](https://rightfield.org.uk/guide.html)
