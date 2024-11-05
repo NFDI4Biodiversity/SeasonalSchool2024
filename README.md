@@ -44,6 +44,7 @@ Further, you will need
 
 * fill in our pre-workshop survey
 * ❗ **Find a spot of vegetation close to you that you can visit to collect data during the course** :deciduous_tree: 🌲🌿
+* prepare a measuring device for data collection (a ruler, a measuring tape, or a piece of string to be measured with a ruler)
 * make sure to adress [requirements](#requirements), i.e. brush-up your Git, Python and R skills
 * register for the following services and organisations (find a list of links and resources [here](misc/install.md))
   * necessary
