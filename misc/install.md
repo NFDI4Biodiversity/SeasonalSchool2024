@@ -49,6 +49,11 @@ This is a selection of installation instructions for the tools we use in this co
 
 ### Recommended
 
+#### Git
+
+* [Introduction to version control with Git, using the command line](https://swcarpentry.github.io/git-novice/)
+* [Optional (!) Windows shell for Git](https://tortoisegit.org/)
+
 #### Jupyter
 
 * [How to re-use Jupyter Notebooks from the Seasonal School](https://sojwolf.github.io/Jupyter_Workshop_Winterschool_2022/3.1_Reuse_Course_Material.html#)
