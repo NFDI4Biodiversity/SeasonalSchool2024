@@ -66,6 +66,7 @@ This is a selection of installation instructions for the tools we use in this co
 * [Video Guide to install Python on Windows (English)](https://www.youtube.com/watch?v=kRkkPIA-yEU)
 * [Video Guide to install Python on MacOS (English)](https://www.youtube.com/watch?v=nhv82tvFfkM)
 * [direct link to python.org (English)](https://www.python.org/downloads/)
+* [list of tutorials for beginners on python.org (English)](https://wiki.python.org/moin/BeginnersGuide/NonProgrammers)
 
 #### R
 
