@@ -119,12 +119,14 @@ Further, you will need
 
 ### Day 5
 
-* 08:30 - 09:00 | :sun_with_face: Warm-up
-* 09:00 - 10:30 | Lecture 9 - Data publication & archiving
-* 10:30 - 10:40 | :tea: Break :coffee:
-* 10:40 - 13:00 | Practical Session 5 - Publishing data
-* 13:00 - 13:30 | :tea: Break :coffee:
-* 13:30 - 14:00 | 📌 Resumée
+* 08:30 - 09:00 | 🌞 Warm-up 
+* 09:00 - 10:00 | Lecture 6 - Data standards 
+* 10:00 - 10:10 | 🍵 Break ☕ 
+* 10:10 - 11:40 | Lecture 9 - Data publication & archiving 
+* 11:40 - 12:30 | 🍵 Break ☕ 
+* 12:30 - 14:00 | Practical Session 5 - Publishing data 
+* 14:00 - 14:10 | 🍵 Break ☕ 
+* 14:10 - 14:40 | 📌 Resumée
 
 ## List of authors/contributors
 
