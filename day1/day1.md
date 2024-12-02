@@ -21,6 +21,7 @@ This lecture is an introduction to research data management (RDM), data literacy
 ## Lecture 2 - FAIR tools & processes to be used
 
 Lecturer: Johannes Signer ([University of Göttingen](https://www.uni-goettingen.de/))
+Slides: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14262125.svg)](https://doi.org/10.5281/zenodo.14262125)
 
 
 
