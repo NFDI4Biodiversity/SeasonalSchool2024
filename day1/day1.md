@@ -28,7 +28,7 @@ Lecturer: Johannes Signer ([University of Göttingen](https://www.uni-goettingen
 
 Lecturer: Jimena Linares ([German Federation for Biological Data | GFBio](https://www.gfbio.org/))
 
-
+Slides: Linares, J. (2024, November 14). DMPS as part of local organisation, FAIRness and policy compliance. Zenodo. https://doi.org/10.5281/zenodo.14162304
 
 
 
