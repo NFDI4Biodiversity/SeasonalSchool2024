@@ -21,14 +21,14 @@ This lecture is an introduction to research data management (RDM), data literacy
 ## Lecture 2 - FAIR tools & processes to be used
 
 Lecturer: Johannes Signer ([University of Göttingen](https://www.uni-goettingen.de/))
-
+Slides: Signer, J. (2024, December 2nd). FAIR tools and processes: Getting started withJupyter & Git(Hub). Zenodo. https://zenodo.org/records/14262125
 
 
 ## Practical Session 1 - Create a Data Management Plan (DMP)
 
 Lecturer: Jimena Linares ([German Federation for Biological Data | GFBio](https://www.gfbio.org/))
 
-
+Slides: Linares, J. (2024, November 14). DMPS as part of local organisation, FAIRness and policy compliance. Zenodo. https://doi.org/10.5281/zenodo.14162304
 
 
 
