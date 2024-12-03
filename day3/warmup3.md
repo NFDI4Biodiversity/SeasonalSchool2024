@@ -12,7 +12,7 @@ version: 1.0
 
 # Warm-Up
 
-[LiaScript version](https://liascript.github.io/course/?https://raw.githubusercontent.com/NFDI4Biodiversity/SeasonalSchool2024/new/main/day3/warmup3.md#1)
+[LiaScript version](https://liascript.github.io/course/?https://raw.githubusercontent.com/NFDI4Biodiversity/SeasonalSchool2024/main/day3/warmup3.md#1)
 
 ## Why don't we share data and code?
 
