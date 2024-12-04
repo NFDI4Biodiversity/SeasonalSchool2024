@@ -20,7 +20,7 @@ version: 1.0
 
 >You can select as many answers as you like. But: as soon as you **SUBMIT** your choice, you cannot change your selection anymore!
 
-**Why do YOU not share (more)/(more often) data?**
+**Why do YOU not share data?**
 
 *Re-use concerns*
 
