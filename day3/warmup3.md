@@ -22,7 +22,7 @@ version: 1.0
 
 **Why do YOU not share (more)/(more often) data?**
 
-*Re-use concverns*
+*Re-use concerns*
 
 - [[sharing rights]]      Sharing rights
 - [[transient storage]]   Transient storage
