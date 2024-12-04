@@ -29,11 +29,13 @@ version: 1.0
 - [[sensitive content]]   Sensitive content
 - [[inapproriate use]]    Inapproriate use
 
+
 *Disincentives*
 
 - [[scooping]]            Scooping 
 - [[lack of time]]        Lack of time
-- [[lack of incentives]]  Lack of incentives
+- [[lack of incentives]]  Lack of incentive
+
 
 *Knowledge barriers*
 
@@ -42,6 +44,7 @@ version: 1.0
 - [[complex workflow]]    Complex workflow
 - [[data too large]]      Data too large
 - [[insecurity]]          Insecurity
+  
 
 ## Reference
 
