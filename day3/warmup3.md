@@ -22,18 +22,26 @@ version: 1.0
 
 **Why do YOU not share (more)/(more often) data?**
 
-- [[sharing rights]]      Sharing rights  *(Re-use concerns)*
-- [[transient storage]]   Transient storage *(Re-use concerns)*
-- [[sensitive content]]   Sensitive content *(Re-use concerns)*
-- [[inapproriate use]]    Inapproriate use *(Re-use concerns)*
-- [[scooping]]            Scooping *(Disincentives)*
-- [[lack of time]]        Lack of time *(Disincentives)*
-- [[lack of incentives]]  Lack of incentives *(Disincentives)*
-- [[unclear value]]       Unclear value *(Knowledge barriers)*
-- [[unclear process]]     Unclear process *(Knowledge barriers)*
-- [[complex workflow]]    Complex workflow *(Knowledge barriers)*
-- [[data too large]]      Data too large *(Knowledge barriers)*
-- [[insecurity]]          Insecurity *(Knowledge barriers)*
+*Re-use concverns*
+
+- [[sharing rights]]      Sharing rights
+- [[transient storage]]   Transient storage
+- [[sensitive content]]   Sensitive content
+- [[inapproriate use]]    Inapproriate use
+
+*Disincentives*
+
+- [[scooping]]            Scooping 
+- [[lack of time]]        Lack of time
+- [[lack of incentives]]  Lack of incentives
+
+*Knowledge barriers*
+
+- [[unclear value]]       Unclear value 
+- [[unclear process]]     Unclear process
+- [[complex workflow]]    Complex workflow
+- [[data too large]]      Data too large
+- [[insecurity]]          Insecurity
 
 ## Reference
 
