@@ -14,5 +14,5 @@ version: 1.0
 
 - [[day]]      On a daily basis
 - [[month]]    On a regular basis (at least once a month)
-- [[year]]     Sometimes ggplot2, but rather other visualization packages (base ❤️)
+- [[year]]     Sometimes ggplot2, but rather other visualization packages
 - [[never]]    Never used ggplot2
