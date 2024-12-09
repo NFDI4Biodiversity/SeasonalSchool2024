@@ -13,22 +13,29 @@
 
 ## Lecture 1 - Research Data Management & Data Literacy
 
-Lecturer: Ivaylo Kostadinov ([German Federation for Biological Data | GFBio](https://www.gfbio.org/))
+Lecturer: 
+Ivaylo Kostadinov ([German Federation for Biological Data | GFBio](https://www.gfbio.org/))
 
 This lecture is an introduction to research data management (RDM), data literacy, and the data life cycle (DLC).
 
 
 ## Lecture 2 - FAIR tools & processes to be used
 
-Lecturer: Johannes Signer ([University of Göttingen](https://www.uni-goettingen.de/))
-Slides: Signer, J. (2024, December 2nd). FAIR tools and processes: Getting started withJupyter & Git(Hub). Zenodo. https://zenodo.org/records/14262125
+Lecturer: 
+Johannes Signer ([University of Göttingen](https://www.uni-goettingen.de/))
+
+Slides:
+Signer, J. (2024, December 2nd). FAIR tools and processes: Getting started with Jupyter & Git(Hub). Zenodo. https://doi.org/10.5281/zenodo.14262125
 
 
-## Practical Session 1 - Create a Data Management Plan (DMP)
+## Practical Session 1 - Create a Data Management Plan (DMP) - part 1
 
-Lecturer: Jimena Linares ([German Federation for Biological Data | GFBio](https://www.gfbio.org/))
+Lecturer: 
+Jimena Linares ([German Federation for Biological Data | GFBio](https://www.gfbio.org/))(planned),
+Ivaylo Kostadinov ([German Federation for Biological Data | GFBio](https://www.gfbio.org/))(actually)
 
-Slides: Linares, J. (2024, November 14). DMPS as part of local organisation, FAIRness and policy compliance. Zenodo. https://doi.org/10.5281/zenodo.14162304
+Slides:
+Linares, J. (2024, November 14). DMPS as part of local organisation, FAIRness and policy compliance. Zenodo. https://doi.org/10.5281/zenodo.14162304
 
 
 
