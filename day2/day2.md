@@ -20,6 +20,13 @@ Slides:
 
 Kusch, E. (2024, Dezember 1). Investigating Biodiversity Data Using Open-Access Databases. Zenodo. https://doi.org/10.5281/zenodo.14254042
 
+Tutorials:
+
+* [Finding and downloading data](https://www.erikkusch.com/courses/gbif/nfdi-download)
+* [Handling & Visualising Data](https://www.erikkusch.com/courses/gbif/nfdi-handling/)
+* [Climate Data](https://www.erikkusch.com/courses/gbif/nfdi-climate/)
+
+
 ## Lecture 4 - Legal aspects
 
 Lecturer: 
