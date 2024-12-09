@@ -12,12 +12,32 @@
 
 ## Lecture 7 - Data analysis & visualisation according to FAIR principles
 
-Lecturer: Cédric Scherer ([Data Visualization & Information Design](https://www.cedricscherer.com/))
+Lecturer: 
+
+Dr. Cédric Scherer ([Data Visualization & Information Design](https://www.cedricscherer.com/))
+
+Slides:
+
+Scherer, C. (2024, Dezember 4). Data Analysis & Visualisation According to FAIR Principles. Zenodo. https://doi.org/10.5281/zenodo.14275834
 
 ## Lecture 8 - Publishing your workflow, analysis, scripts using Jupyter, Git and software management tools
 
-Lecturer: Ludmilla Figueiredo ([German Centre for Integrative Biodiversity Research (iDiv) Halle-Jena-Leipzig](https://www.idiv.de/en))
+Lecturer: 
+
+Dr. Ludmilla Figueiredo ([German Centre for Integrative Biodiversity Research (iDiv) Halle-Jena-Leipzig](https://www.idiv.de/en))
+
+Material:
+
+Ludmilla Figueiredo. (2024). ludmillafigueiredo/nfdi4bioschool2024: NFDI4Bio Winter School (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.14281732
 
 ## Practical Session 4 - Jupyter Hub
 
-Lecturer: Johannes Signer ([University of Göttingen](https://www.uni-goettingen.de/))
+Lecturer:
+
+Dr. Johannes Signer ([University of Göttingen](https://www.uni-goettingen.de/))
+
+Script:
+
+day4/practical_session4/scripts/exercise.R
+
+
