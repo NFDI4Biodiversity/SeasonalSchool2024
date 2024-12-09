@@ -12,18 +12,28 @@
 
 ## Lecture 5 - Taxonomic harmonization
 
-Lecturer: David Schellenberger Costa ([University of Leipzig](https://www.uni-leipzig.de/))
+Lecturer: 
 
-Material: Schellenberger Costa, D. (2024, Dezember 4). Taxonomic name harmonization. Zenodo. https://doi.org/10.5281/zenodo.14273559
+Dr. David Schellenberger Costa ([University of Leipzig](https://www.uni-leipzig.de/))
 
-## Practical Session 1 (part2) - Creating a Data Management Plan
+Material: 
 
-Lecturer:  Judith Engel ([University of Bremen](https://www.uni-bremen.de/en/), [MARUM - Center for Marine Environmental Sciences](https://www.marum.de/en/index.html), [German Federation for Biological Data | GFBio](https://www.gfbio.org/), [PANGAEA - Data Publisher for Earth & Environmental Science](https://pangaea.de/))
+Schellenberger Costa, D. (2024, Dezember 4). Taxonomic name harmonization. Zenodo. https://doi.org/10.5281/zenodo.14273559
+
+## Practical Session 1 (part2) - Creating a Data Management Plan - part 2
+
+Lecturer: 
+
+Dr. Judith Engel ([University of Bremen](https://www.uni-bremen.de/en/), [MARUM - Center for Marine Environmental Sciences](https://www.marum.de/en/index.html), [German Federation for Biological Data | GFBio](https://www.gfbio.org/), [PANGAEA - Data Publisher for Earth & Environmental Science](https://pangaea.de/))
 
 GFBio Data Management Tool: https://dmp.gfbio.org
 
 ## Practical Session 3 - Data integration & annotation
 
-Lecturer: Wolfgang Müller ([Heidelberg Institute for Theoretical Studies | HITS](https://www.h-its.org/))
+Lecturer: 
 
-Material: Müller, W. (2024, Dezember 3). Three useful tools to get data in shape. Zenodo. https://doi.org/10.5281/zenodo.14269511
+Prof. Dr. Wolfgang Müller ([Heidelberg Institute for Theoretical Studies | HITS](https://www.h-its.org/))
+
+Material:
+
+Müller, W. (2024, Dezember 3). Three useful tools to get data in shape. Zenodo. https://doi.org/10.5281/zenodo.14269511
