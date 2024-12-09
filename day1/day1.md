@@ -36,8 +36,8 @@ Signer, J. (2024, December 2nd). FAIR tools and processes: Getting started with 
 
 Lecturer: 
 
-Jimena Linares ([German Federation for Biological Data | GFBio](https://www.gfbio.org/))(planned),
-Dr. Ivaylo Kostadinov ([German Federation for Biological Data | GFBio](https://www.gfbio.org/))(actual)
+* Jimena Linares ([German Federation for Biological Data | GFBio](https://www.gfbio.org/))(planned)
+* Dr. Ivaylo Kostadinov ([German Federation for Biological Data | GFBio](https://www.gfbio.org/))(actual)
 
 Slides:
 
