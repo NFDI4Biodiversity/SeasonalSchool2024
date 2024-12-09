@@ -15,7 +15,7 @@
 
 Lecturer: 
 
-Ivaylo Kostadinov ([German Federation for Biological Data | GFBio](https://www.gfbio.org/))
+Dr. Ivaylo Kostadinov ([German Federation for Biological Data | GFBio](https://www.gfbio.org/))
 
 Slides:
 
@@ -25,7 +25,7 @@ Slides:
 
 Lecturer: 
 
-Johannes Signer ([University of Göttingen](https://www.uni-goettingen.de/))
+Dr. Johannes Signer ([University of Göttingen](https://www.uni-goettingen.de/))
 
 Slides:
 
@@ -37,7 +37,7 @@ Signer, J. (2024, December 2nd). FAIR tools and processes: Getting started with 
 Lecturer: 
 
 Jimena Linares ([German Federation for Biological Data | GFBio](https://www.gfbio.org/))(planned),
-Ivaylo Kostadinov ([German Federation for Biological Data | GFBio](https://www.gfbio.org/))(actual)
+Dr. Ivaylo Kostadinov ([German Federation for Biological Data | GFBio](https://www.gfbio.org/))(actual)
 
 Slides:
 
