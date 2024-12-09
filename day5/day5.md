@@ -11,14 +11,26 @@
 
 ## Lecture 9 - Data publication & archiving
 
-Lecturer: Matthias Pauli  ([University of Bremen](https://www.uni-bremen.de/en/), [MARUM - Center for Marine Environmental Sciences](https://www.marum.de/en/index.html), [PANGAEA - Data Publisher for Earth & Environmental Science](https://pangaea.de/))
+Lecturer: 
+
+Matthias Pauli  ([University of Bremen](https://www.uni-bremen.de/en/), [MARUM - Center for Marine Environmental Sciences](https://www.marum.de/en/index.html), [PANGAEA - Data Publisher for Earth & Environmental Science](https://pangaea.de/))
+Dr. Judith Engel ([University of Bremen](https://www.uni-bremen.de/en/), [MARUM - Center for Marine Environmental Sciences](https://www.marum.de/en/index.html), [German Federation for Biological Data | GFBio](https://www.gfbio.org/), [PANGAEA - Data Publisher for Earth & Environmental Science](https://pangaea.de/))
+
+Slides:
+
 
 ## Practical Session 5 - Publishing data
 
 Lecturers: 
-* Jimena Linares ([German Federation for Biological Data | GFBio](https://www.gfbio.org/))
-* Ivaylo Kostadinov ([German Federation for Biological Data | GFBio](https://www.gfbio.org/))
-* Judith Engel ([University of Bremen](https://www.uni-bremen.de/en/), [MARUM - Center for Marine Environmental Sciences](https://www.marum.de/en/index.html), [German Federation for Biological Data | GFBio](https://www.gfbio.org/), [PANGAEA - Data Publisher for Earth & Environmental Science](https://pangaea.de/))
+
+Matthias Pauli  ([University of Bremen](https://www.uni-bremen.de/en/), [MARUM - Center for Marine Environmental Sciences](https://www.marum.de/en/index.html), [PANGAEA - Data Publisher for Earth & Environmental Science](https://pangaea.de/))
+Dr. Judith Engel ([University of Bremen](https://www.uni-bremen.de/en/), [MARUM - Center for Marine Environmental Sciences](https://www.marum.de/en/index.html), [German Federation for Biological Data | GFBio](https://www.gfbio.org/), [PANGAEA - Data Publisher for Earth & Environmental Science](https://pangaea.de/))
+
+Material:
+
+Riemann-Campe, K., Oellermann, M. (2024-10-16) [PANGAEA Data Curation Checklist - Python](https://github.com/pangaea-data-publisher/community-workshop-material/blob/master/Python/Data_curation_checklist/Data_curation_checklist.ipynb) [Notebook]. v1.2
+
+Ransby, D. (2023-08-28) [PANGAEA Data Curation Checklist - R](https://github.com/pangaea-data-publisher/community-workshop-material/blob/master/R/Data_curation_checklist/Data_Curation_Checklist.ipynb) [Notebook]. v0.1.0
 
 ## Feedback
 
