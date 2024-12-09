@@ -77,7 +77,7 @@ Further, you will need
 
 ## Schedule
 
-### Day 1
+### [Day 1](day1/day1.md)
 
 * 08:30 - 09:30 | :sun_with_face: Warm-up
 * 09:30 - 10:30 | Lecture 1 - Research Data Management & Data Literacy
@@ -87,7 +87,7 @@ Further, you will need
 * 13:00 - 15:00 | Practical Session 1 - Create a Data Management Plan (DMP)
 * 15:00 - 15:10 | 📌 Wrap-up and outlook
 
-### Day 2
+### [Day 2](day2/day2.md)
 
 * 08:30 - 09:00 | :sun_with_face: Warm-up
 * 09:00 - 10:30 | Lecture 3 - Investigating biodiversity data using open-access databases: following FAIR data principles
@@ -97,7 +97,7 @@ Further, you will need
 * 13:00 - 15:00 | Practical Session 2 - Sampling and handling spatial data using QField
 * 15:00 - 15:10 | 📌 Wrap-up and outlook
 
-### Day 3
+### [Day 3](day3/day3.md)
 
 * 08:30 - 09:00 | :sun_with_face: Warm-up
 * 09:00 - 10:30 | Lecture 5 - Taxonomic harmonization
@@ -107,7 +107,7 @@ Further, you will need
 * 13:00 - 15:00 | Practical Session 3 - Data integration & annotation
 * 15:00 - 15:10 | 📌 Wrap-up and outlook
 
-### Day 4
+### [Day 4](day4/day4.md)
 
 * 08:30 - 09:00 | :sun_with_face: Warm-up
 * 09:00 - 10:30 | Lecture 7 - Data analysis & visualisation according to FAIR principles
@@ -117,7 +117,7 @@ Further, you will need
 * 13:00 - 15:00 | Practical Session 4 - Jupyter Hub
 * 15:00 - 15:10 | 📌 Wrap-up and outlook
 
-### Day 5
+### [Day 5](day5/day5.md)
 
 * 08:30 - 09:00 | 🌞 Warm-up 
 * 09:00 - 10:00 | Lecture 6 - Data standards 
