@@ -30,5 +30,3 @@ Schindler, U. (2024, Dezember 3). Legal aspects in research data management: Dat
 
 Lecturer:
 Alexandra Nozik ([Leibniz Centre for Tropical Marine Research](https://www.leibniz-zmt.de/de/))
-
-Slides:
