@@ -148,24 +148,30 @@ Further, you will need
 * 09:00 - 10:00 | <s>Lecture 6 - Data standards</s> (cancelled) --> Resumée 
 * 10:00 - 10:10 | 🍵 Break ☕ 
 * 10:10 - 11:40 | Lecture 9 - Data publication & archiving
-  * Matthias Pauli  ([University of Bremen](https://www.uni-bremen.de/en/), [MARUM - Center for Marine Environmental Sciences](https://www.marum.de/en/index.html), [PANGAEA - Data Publisher for Earth & Environmental Science](https://pangaea.de/))
+  * Matthias Pauli ([University of Bremen](https://www.uni-bremen.de/en/), [MARUM - Center for Marine Environmental Sciences](https://www.marum.de/en/index.html), [PANGAEA - Data Publisher for Earth & Environmental Science](https://pangaea.de/))
   * Dr. Judith Engel ([University of Bremen](https://www.uni-bremen.de/en/), [MARUM - Center for Marine Environmental Sciences](https://www.marum.de/en/index.html), [German Federation for Biological Data | GFBio](https://www.gfbio.org/), [PANGAEA - Data Publisher for Earth & Environmental Science](https://pangaea.de/))
   * Slides | Video
 * 11:40 - 12:30 | 🍵 Break ☕ 
 * 12:30 - 14:00 | Practical Session 5 - Publishing data
   * Dr. Judith Engel ([University of Bremen](https://www.uni-bremen.de/en/), [MARUM - Center for Marine Environmental Sciences](https://www.marum.de/en/index.html), [German Federation for Biological Data | GFBio](https://www.gfbio.org/), [PANGAEA - Data Publisher for Earth & Environmental Science](https://pangaea.de/))
-  * Matthias Pauli  ([University of Bremen](https://www.uni-bremen.de/en/), [MARUM - Center for Marine Environmental Sciences](https://www.marum.de/en/index.html), [PANGAEA - Data Publisher for Earth & Environmental Science](https://pangaea.de/))
+  * Matthias Pauli ([University of Bremen](https://www.uni-bremen.de/en/), [MARUM - Center for Marine Environmental Sciences](https://www.marum.de/en/index.html), [PANGAEA - Data Publisher for Earth & Environmental Science](https://pangaea.de/))
   * [Notebook Python](https://github.com/pangaea-data-publisher/community-workshop-material/blob/master/Python/Data_curation_checklist/Data_curation_checklist.ipynb) | [Notebook R](https://github.com/pangaea-data-publisher/community-workshop-material/blob/master/R/Data_curation_checklist/Data_Curation_Checklist.ipynb)
 * 14:00 - 14:10 | 🍵 <s>Break</s> ☕ 
 * 14:10 - 14:40 | 📌 <s>Resumée</s> moved
 
-## List of authors/contributors
+## List of contributors (A-Z)
+
+Judith Engel, Ludmilla Figueiredo, Linus Franz, Anahita Kazem, Ivaylo Kostadinov, Erik Kusch, Jimena Linares, Wolfgang Müller, Alexandra Nozik, Matthias Pauli, Juliane Röder, Nicole Sachmerda-Schulz, David Schellenberger Costa, Cédric Scherer, Pascal Scherreiks, Uwe Schindler, Johannes Signer, Daniel Tschink
 
 ## How to cite
 
 ## License
 
+The **markdown texts** in this repository can be used under a [CC BY 4.0 license](https://creativecommons.org/licenses/by/4.0/deed.en). Please note that the licenses on data sets, scripts and other material can be different and more restricted!
+
 ## Further reading
+
+Interested to learn more about research data management? Check out our training opportunities: https://www.nfdi4biodiversity.org/en/training
 
 ## About NFDI4Biodiversity and iDiv
 
