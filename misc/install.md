@@ -51,7 +51,7 @@ This is a selection of installation instructions for the tools we use in this co
 
 #### Git
 
-* [Introduction to version control with Git, using the command line](https://swcarpentry.github.io/git-novice/)
+* [Introduction to version control with Git, using the command line (English, Carpentries)](https://swcarpentry.github.io/git-novice/)
 * [Optional (!) Windows shell for Git](https://tortoisegit.org/)
 
 #### Jupyter
