@@ -2,7 +2,7 @@
 
 ## How to use this repository
 
-This repository provides details on the schedule, on necessary [accounts and installations](misc/install.md), and links to all available materials used in the course.
+This repository provides details on the schedule, on necessary [accounts and installations](misc/install.md), and links to all available materials used in the course. We further provide a [list of recommended training materials](misc/install.md#recommended) to meet the required level of data handling skills necessary to follow this course.
 
 ## About this workshop
 
