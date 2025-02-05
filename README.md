@@ -135,7 +135,7 @@ Further, you will need
 * 10:30 - 10:40 | :tea: Break :coffee:
 * 10:40 - 12:10 | Lecture 8 - Publishing your workflow, analysis, scripts using Jupyter, Git and software management tools
   * Dr. Ludmilla Figueiredo ([German Centre for Integrative Biodiversity Research (iDiv) Halle-Jena-Leipzig](https://www.idiv.de/en))
-  * Slides | [Test repository](https://doi.org/10.5281/zenodo.14281732) | [Notebook folder structure](https://github.com/ludmillafigueiredo/computational_notebooks) | Video
+  * [Slides](https://doi.org/10.5281/zenodo.14282399) | [Test repository](https://doi.org/10.5281/zenodo.14281732) | [Notebook folder structure](https://github.com/ludmillafigueiredo/computational_notebooks) | Video
 * 12:10 - 13:00 | :fork_and_knife: Break
 * 13:00 - 15:00 | Practical Session 4 - Jupyter Hub
   * Dr. Johannes Signer ([University of Göttingen](https://www.uni-goettingen.de/))
