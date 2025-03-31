@@ -99,7 +99,7 @@ Further, you will need
 * 08:30 - 09:00 | :sun_with_face: Warm-up
 * 09:00 - 10:30 | Lecture 3 - Investigating biodiversity data using open-access databases: following FAIR data principles
   * Dr. Erik Kusch ([Natural History Museum of the University of Oslo](https://www.nhm.uio.no/english/), [Global Biodiversity Information Facility Norway | GBIF Norway](https://www.gbif.org/country/NO/summary))
-  * [Slides](https://doi.org/10.5281/zenodo.14254042) | Video | [Tutorial GBIF](https://www.erikkusch.com/courses/gbif/) | [Tutorial Seasonal School 2024](https://www.erikkusch.com/courses/gbif/nfdi-download)
+  * [Slides](https://doi.org/10.5281/zenodo.15097622) | Video | [Tutorial GBIF](https://www.erikkusch.com/courses/gbif/) | [Tutorial Seasonal School 2024](https://www.erikkusch.com/courses/gbif/nfdi-download)
 * 10:30 - 10:40 | :tea: Break :coffee:
 * 10:40 - 12:10 | Lecture 4 - Legal aspects
   * Uwe Schindler ([University of Bremen](https://www.uni-bremen.de/en/), [MARUM - Center for Marine Environmental Sciences](https://www.marum.de/en/index.html); [PANGAEA - Data Publisher for Earth & Environmental Science](https://pangaea.de/))
