@@ -18,7 +18,7 @@ Dr. Erik Kusch ([Natural History Museum of the University of Oslo](https://www.n
 
 Slides:
 
-Kusch, E. (2024, Dezember 1). Investigating Biodiversity Data Using Open-Access Databases. Zenodo. https://doi.org/10.5281/zenodo.14254042
+Kusch, E. (2025). Investigating Biodiversity Data Using Open-Access Databases. Zenodo. https://doi.org/10.5281/zenodo.15097622
 
 Tutorials:
 
@@ -33,9 +33,13 @@ Lecturer:
 
 Uwe Schindler ([University of Bremen](https://www.uni-bremen.de/en/), [MARUM - Center for Marine Environmental Sciences](https://www.marum.de/en/index.html); [PANGAEA - Data Publisher for Earth & Environmental Science](https://pangaea.de/))
 
+Description:
+
+Open Source Software licenses have a long history going back to the early 80s with the GNU Manifesto by Richard Stallman. This lesson will give a short history of Open Source Software licenses and how they influenced licenses for sharing and publishing data. The second part of the lesson will present suitable licenses from the Creative Commons (CC) stack of licenses, while mentioning some of the licensing / copyright issues that may affect users and publishers in some legislatives. This talk will summarize the important aspects of copyright law with regards to “scientific data” and “threshold of originality”, and will explain how licensing works for newcomers of FAIR data publishing (but not as legal advice).
+
 Slides:
 
-Schindler, U. (2024, Dezember 3). Legal aspects in research data management: Data Licensing and Copyright. Seasonal School on Data Management in Biodiversity and Environmental Science. Zenodo. https://doi.org/10.5281/zenodo.14268397
+Schindler, U. (2024). Legal aspects in research data management: Data Licensing and Copyright. Seasonal School on Data Management in Biodiversity and Environmental Science. Zenodo. https://doi.org/10.5281/zenodo.14268397
 
 ## Practical Session 2 - Sampling and handling spatial data using QField
 
