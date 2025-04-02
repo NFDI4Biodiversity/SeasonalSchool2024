@@ -19,6 +19,7 @@ Dr. Ivaylo Kostadinov ([German Federation for Biological Data | GFBio](https://w
 
 Slides:
 
+Kostadinov, I., Tschink, D., & Linares Gómez, J. (2025, April 2). Data Management and Data Literacy. iDiv-NFDI4Biodiverstiy. Zenodo. https://doi.org/10.5281/zenodo.15124025
 
 
 ## Lecture 2 - FAIR tools & processes to be used
