@@ -82,7 +82,7 @@ Further, you will need
 * 08:30 - 09:30 | :sun_with_face: Warm-up
 * 09:30 - 10:30 | Lecture 1 - Research Data Management & Data Literacy
   * Dr. Ivaylo Kostadinov ([German Federation for Biological Data | GFBio](https://www.gfbio.org/))
-  * Slides | Video
+  * [Slides](https://doi.org/10.5281/zenodo.15124025) | Video
 * 10:30 - 10:40 | :tea: Break :coffee:
 * 10:40 - 12:10 | Lecture 2 - FAIR tools & processes to be used
   * Dr. Johannes Signer (University of Göttingen)
