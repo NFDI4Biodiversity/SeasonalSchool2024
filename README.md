@@ -150,7 +150,7 @@ Further, you will need
 * 10:10 - 11:40 | Lecture 9 - Data publication & archiving
   * Matthias Pauli ([University of Bremen](https://www.uni-bremen.de/en/), [MARUM - Center for Marine Environmental Sciences](https://www.marum.de/en/index.html), [PANGAEA - Data Publisher for Earth & Environmental Science](https://pangaea.de/))
   * Dr. Judith Engel ([University of Bremen](https://www.uni-bremen.de/en/), [MARUM - Center for Marine Environmental Sciences](https://www.marum.de/en/index.html), [German Federation for Biological Data | GFBio](https://www.gfbio.org/), [PANGAEA - Data Publisher for Earth & Environmental Science](https://pangaea.de/))
-  * Slides | Video
+  * [Slides GFBio Data Submission Service](https://doi.org/10.5281/zenodo.15174063) | Slides PANGAEA Data Submission | Video
 * 11:40 - 12:30 | 🍵 Break ☕ 
 * 12:30 - 14:00 | Practical Session 5 - Publishing data
   * Dr. Judith Engel ([University of Bremen](https://www.uni-bremen.de/en/), [MARUM - Center for Marine Environmental Sciences](https://www.marum.de/en/index.html), [German Federation for Biological Data | GFBio](https://www.gfbio.org/), [PANGAEA - Data Publisher for Earth & Environmental Science](https://pangaea.de/))
