@@ -40,6 +40,8 @@ Further, you will need
     * R package *data.table*
     * tidyverse
 
+We compiled a list of recommended online learning resources for Git, R, and Python [here](misc/install.md#recommended).
+
 ### Prepare for the workshop
 
 * fill in our pre-workshop survey
