@@ -125,7 +125,7 @@ We compiled a list of recommended online learning resources for Git, R, and Pyth
 * 12:10 - 13:00 | :fork_and_knife: Break
 * 13:00 - 15:00 | Practical Session 3 - Data integration & annotation
   * Prof. Dr. Wolfgang Müller ([Heidelberg Institute for Theoretical Studies | HITS](https://www.h-its.org/))
-  * [Slides & training data sets](https://doi.org/10.5281/zenodo.14269511) | [Video OpenRefine](https://www.youtube.com/watch?v=xv7usxUH-Ig&list=PL06Unzn1hDrjVAZ0RvNbyQ1Uics9TQ1Kv&index=9) | [Video RightField](https://www.youtube.com/watch?v=JRKmyd4RFEo&list=PL06Unzn1hDrjVAZ0RvNbyQ1Uics9TQ1Kv&index=8) [Video ReStoRunT](https://www.youtube.com/watch?v=7B0Sg2v02Dc&list=PL06Unzn1hDrjVAZ0RvNbyQ1Uics9TQ1Kv&index=10)
+  * [Slides & training data sets](https://doi.org/10.5281/zenodo.14269511) | [Video OpenRefine](https://www.youtube.com/watch?v=xv7usxUH-Ig&list=PL06Unzn1hDrjVAZ0RvNbyQ1Uics9TQ1Kv&index=9) | [Video RightField](https://www.youtube.com/watch?v=JRKmyd4RFEo&list=PL06Unzn1hDrjVAZ0RvNbyQ1Uics9TQ1Kv&index=8) | [Video ReStoRunT](https://www.youtube.com/watch?v=7B0Sg2v02Dc&list=PL06Unzn1hDrjVAZ0RvNbyQ1Uics9TQ1Kv&index=10)
 * 15:00 - 15:10 | 📌 Wrap-up and outlook
 
 ### [Day 4](day4/day4.md)
