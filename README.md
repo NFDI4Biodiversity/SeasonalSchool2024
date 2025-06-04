@@ -84,16 +84,16 @@ We compiled a list of recommended online learning resources for Git, R, and Pyth
 * 08:30 - 09:30 | :sun_with_face: Warm-up
 * 09:30 - 10:30 | Lecture 1 - Research Data Management & Data Literacy
   * Dr. Ivaylo Kostadinov ([German Federation for Biological Data | GFBio](https://www.gfbio.org/))
-  * [Slides](https://doi.org/10.5281/zenodo.15124025) | Video
+  * [Slides](https://doi.org/10.5281/zenodo.15124025) | [Video](https://www.youtube.com/watch?v=sbazF7uKVAM&list=PL06Unzn1hDrjVAZ0RvNbyQ1Uics9TQ1Kv&index=2)
 * 10:30 - 10:40 | :tea: Break :coffee:
 * 10:40 - 12:10 | Lecture 2 - FAIR tools & processes to be used
   * Dr. Johannes Signer (University of Göttingen)
-  * [Slides](https://doi.org/10.5281/zenodo.14262125) | Video
+  * [Slides](https://doi.org/10.5281/zenodo.14262125) | [Video](https://www.youtube.com/watch?v=EQJgIgLY9NY&list=PL06Unzn1hDrjVAZ0RvNbyQ1Uics9TQ1Kv&index=3)
 * 12:10 - 13:00 | :fork_and_knife: Break
 * 13:00 - 15:00 | Practical Session 1 - Create a Data Management Plan (DMP) - part 1
   * Jimena Linares ([German Federation for Biological Data | GFBio](https://www.gfbio.org/))(planned)
   * Dr. Ivaylo Kostadinov ([German Federation for Biological Data | GFBio](https://www.gfbio.org/))(actual)
-  * [Slides](https://doi.org/10.5281/zenodo.14162304)
+  * [Slides](https://doi.org/10.5281/zenodo.14162304) | [Video Introduction](https://www.youtube.com/watch?v=LyVYrilcIpI&list=PL06Unzn1hDrjVAZ0RvNbyQ1Uics9TQ1Kv&index=4)
 * 15:00 - 15:10 | 📌 Wrap-up and outlook
 
 ### [Day 2](day2/day2.md)
@@ -101,11 +101,11 @@ We compiled a list of recommended online learning resources for Git, R, and Pyth
 * 08:30 - 09:00 | :sun_with_face: Warm-up
 * 09:00 - 10:30 | Lecture 3 - Investigating biodiversity data using open-access databases: following FAIR data principles
   * Dr. Erik Kusch ([Natural History Museum of the University of Oslo](https://www.nhm.uio.no/english/), [Global Biodiversity Information Facility Norway | GBIF Norway](https://www.gbif.org/country/NO/summary))
-  * [Slides](https://doi.org/10.5281/zenodo.15097622) | Video | [Tutorial GBIF](https://www.erikkusch.com/courses/gbif/) | [Tutorial Seasonal School 2024](https://www.erikkusch.com/courses/gbif/nfdi-download)
+  * [Slides](https://doi.org/10.5281/zenodo.15097622) | [Tutorial GBIF](https://www.erikkusch.com/courses/gbif/) | [Tutorial Seasonal School 2024](https://www.erikkusch.com/courses/gbif/nfdi-download) | [Video](https://www.youtube.com/watch?v=OeIpnrE1r_I&list=PL06Unzn1hDrjVAZ0RvNbyQ1Uics9TQ1Kv&index=5)
 * 10:30 - 10:40 | :tea: Break :coffee:
 * 10:40 - 12:10 | Lecture 4 - Legal aspects
   * Uwe Schindler ([University of Bremen](https://www.uni-bremen.de/en/), [MARUM - Center for Marine Environmental Sciences](https://www.marum.de/en/index.html); [PANGAEA - Data Publisher for Earth & Environmental Science](https://pangaea.de/))
-  * [Slides](https://doi.org/10.5281/zenodo.14268397) | Video
+  * [Slides](https://doi.org/10.5281/zenodo.14268397) | [Video](https://www.youtube.com/watch?v=aqfYvXT4GWo&list=PL06Unzn1hDrjVAZ0RvNbyQ1Uics9TQ1Kv&index=6)
 * 12:10 - 13:00 | :fork_and_knife: Break
 * 13:00 - 15:00 | Practical Session 2 - Sampling and handling spatial data using QField
   * Alexandra Nozik ([Leibniz Centre for Tropical Marine Research](https://www.leibniz-zmt.de/de/))
@@ -117,7 +117,7 @@ We compiled a list of recommended online learning resources for Git, R, and Pyth
 * 08:30 - 09:00 | :sun_with_face: Warm-up
 * 09:00 - 10:30 | Lecture 5 - Taxonomic harmonization
   * Dr. David Schellenberger Costa ([University of Leipzig](https://www.uni-leipzig.de/))
-  * [Slides, training data sets & notebooks](https://doi.org/10.5281/zenodo.14273559) | Video
+  * [Slides, training data sets & notebooks](https://doi.org/10.5281/zenodo.14273559) | [Video](https://www.youtube.com/watch?v=EbEBKWq5Cxs&list=PL06Unzn1hDrjVAZ0RvNbyQ1Uics9TQ1Kv&index=7)
 * 10:30 - 10:40 | :tea: Break :coffee:
 * 10:40 - 12:10 | <s>Lecture 6 - Data standards</s> (cancelled) --> Practical Session 1 - Create a Data Management Plan (DMP) - part 2
   * Dr. Judith Engel ([University of Bremen](https://www.uni-bremen.de/en/), [MARUM - Center for Marine Environmental Sciences](https://www.marum.de/en/index.html), [German Federation for Biological Data | GFBio](https://www.gfbio.org/), [PANGAEA - Data Publisher for Earth & Environmental Science](https://pangaea.de/))
@@ -125,7 +125,7 @@ We compiled a list of recommended online learning resources for Git, R, and Pyth
 * 12:10 - 13:00 | :fork_and_knife: Break
 * 13:00 - 15:00 | Practical Session 3 - Data integration & annotation
   * Prof. Dr. Wolfgang Müller ([Heidelberg Institute for Theoretical Studies | HITS](https://www.h-its.org/))
-  * [Slides & training data sets](https://doi.org/10.5281/zenodo.14269511)
+  * [Slides & training data sets](https://doi.org/10.5281/zenodo.14269511) | [Video OpenRefine](https://www.youtube.com/watch?v=xv7usxUH-Ig&list=PL06Unzn1hDrjVAZ0RvNbyQ1Uics9TQ1Kv&index=9) | [Video RightField](https://www.youtube.com/watch?v=JRKmyd4RFEo&list=PL06Unzn1hDrjVAZ0RvNbyQ1Uics9TQ1Kv&index=8) [Video ReStoRunT](https://www.youtube.com/watch?v=7B0Sg2v02Dc&list=PL06Unzn1hDrjVAZ0RvNbyQ1Uics9TQ1Kv&index=10)
 * 15:00 - 15:10 | 📌 Wrap-up and outlook
 
 ### [Day 4](day4/day4.md)
@@ -133,11 +133,12 @@ We compiled a list of recommended online learning resources for Git, R, and Pyth
 * 08:30 - 09:00 | :sun_with_face: Warm-up
 * 09:00 - 10:30 | Lecture 7 - Data analysis & visualisation according to FAIR principles
   * Dr. Cédric Scherer ([Data Visualization & Information Design](https://www.cedricscherer.com/))
-  * [Slides, code & notebook](https://doi.org/10.5281/zenodo.14275834) | Video
+  * [Slides, code & notebook](https://doi.org/10.5281/zenodo.14275834) | [Video](https://www.youtube.com/watch?v=iOgdM0atukY&list=PL06Unzn1hDrjVAZ0RvNbyQ1Uics9TQ1Kv&index=11)
 * 10:30 - 10:40 | :tea: Break :coffee:
 * 10:40 - 12:10 | Lecture 8 - Publishing your workflow, analysis, scripts using Jupyter, Git and software management tools
   * Dr. Ludmilla Figueiredo ([German Centre for Integrative Biodiversity Research (iDiv) Halle-Jena-Leipzig](https://www.idiv.de/en))
-  * [Slides](https://doi.org/10.5281/zenodo.14282399) | [Test repository](https://doi.org/10.5281/zenodo.14281732) | [Notebook folder structure](https://github.com/ludmillafigueiredo/computational_notebooks) | Video
+  * [Slides](https://doi.org/10.5281/zenodo.14282399) | [Test repository](https://doi.org/10.5281/zenodo.14281732) | [Notebook folder structure](https://github.com/ludmillafigueiredo/computational_notebooks) | [Video](https://www.youtube.com/watch?v=YkuYWzifPdM&list=PL06Unzn1hDrjVAZ0RvNbyQ1Uics9TQ1Kv&index=12)
+
 * 12:10 - 13:00 | :fork_and_knife: Break
 * 13:00 - 15:00 | Practical Session 4 - Jupyter Hub
   * Dr. Johannes Signer ([University of Göttingen](https://www.uni-goettingen.de/))
@@ -152,7 +153,7 @@ We compiled a list of recommended online learning resources for Git, R, and Pyth
 * 10:10 - 11:40 | Lecture 9 - Data publication & archiving
   * Matthias Pauli ([University of Bremen](https://www.uni-bremen.de/en/), [MARUM - Center for Marine Environmental Sciences](https://www.marum.de/en/index.html), [PANGAEA - Data Publisher for Earth & Environmental Science](https://pangaea.de/))
   * Dr. Judith Engel ([University of Bremen](https://www.uni-bremen.de/en/), [MARUM - Center for Marine Environmental Sciences](https://www.marum.de/en/index.html), [German Federation for Biological Data | GFBio](https://www.gfbio.org/), [PANGAEA - Data Publisher for Earth & Environmental Science](https://pangaea.de/))
-  * [Slides GFBio Data Submission Service](https://doi.org/10.5281/zenodo.15174063) | Slides PANGAEA Data Submission | Video
+  * Slides PANGAEA Data Submission | [Slides GFBio Data Submission Service](https://doi.org/10.5281/zenodo.15174063) | | [Video PANGAEA Data Submission](https://www.youtube.com/watch?v=8ujSrpeb0bs&list=PL06Unzn1hDrjVAZ0RvNbyQ1Uics9TQ1Kv&index=13) | [Video GFBio Data Submission Service](https://www.youtube.com/watch?v=TvSKvLa_b9Q&list=PL06Unzn1hDrjVAZ0RvNbyQ1Uics9TQ1Kv&index=14)
 * 11:40 - 12:30 | 🍵 Break ☕ 
 * 12:30 - 14:00 | Practical Session 5 - Publishing data
   * Dr. Judith Engel ([University of Bremen](https://www.uni-bremen.de/en/), [MARUM - Center for Marine Environmental Sciences](https://www.marum.de/en/index.html), [German Federation for Biological Data | GFBio](https://www.gfbio.org/), [PANGAEA - Data Publisher for Earth & Environmental Science](https://pangaea.de/))
