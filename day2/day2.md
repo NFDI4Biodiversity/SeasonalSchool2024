@@ -26,6 +26,9 @@ Tutorials:
 * [Handling & Visualising Data](https://www.erikkusch.com/courses/gbif/nfdi-handling/)
 * [Climate Data](https://www.erikkusch.com/courses/gbif/nfdi-climate/)
 
+Video:
+
+Kusch, E. (2025). Investigating Biodiversity Data Using Open-Access Databases. https://www.youtube.com/watch?v=OeIpnrE1r_I&list=PL06Unzn1hDrjVAZ0RvNbyQ1Uics9TQ1Kv&index=4
 
 ## Lecture 4 - Legal aspects
 
@@ -40,6 +43,10 @@ Open Source Software licenses have a long history going back to the early 80s wi
 Slides:
 
 Schindler, U. (2024). Legal aspects in research data management: Data Licensing and Copyright. Seasonal School on Data Management in Biodiversity and Environmental Science. Zenodo. https://doi.org/10.5281/zenodo.14268397
+
+Video:
+
+Schindler, U. (2025). Legal aspects in research data management: Data Licensing and Copyright. https://www.youtube.com/watch?v=aqfYvXT4GWo&list=PL06Unzn1hDrjVAZ0RvNbyQ1Uics9TQ1Kv&index=6
 
 ## Practical Session 2 - Sampling and handling spatial data using QField
 
