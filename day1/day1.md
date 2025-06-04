@@ -21,6 +21,9 @@ Slides:
 
 Kostadinov, I., Tschink, D., & Linares Gómez, J. (2025, April 2). Data Management and Data Literacy. iDiv-NFDI4Biodiverstiy. Zenodo. https://doi.org/10.5281/zenodo.15124025
 
+Video:
+
+Kostadinov, I., Tschink, D., & Linares Gómez, J. (2025). Data Management and Data Literacy in Biodiversity and Environmental Sciences. https://www.youtube.com/watch?v=sbazF7uKVAM&list=PL06Unzn1hDrjVAZ0RvNbyQ1Uics9TQ1Kv&index=2
 
 ## Lecture 2 - FAIR tools & processes to be used
 
@@ -32,6 +35,9 @@ Slides:
 
 Signer, J. (2024, December 2nd). FAIR tools and processes: Getting started with Jupyter & Git(Hub). Zenodo. https://doi.org/10.5281/zenodo.14262125
 
+Video:
+
+Signer, J. (2025). FAIR tools and processes: Getting started with Jupyter & Git(Hub). https://www.youtube.com/watch?v=EQJgIgLY9NY&list=PL06Unzn1hDrjVAZ0RvNbyQ1Uics9TQ1Kv&index=2
 
 ## Practical Session 1 - Create a Data Management Plan (DMP) - part 1
 
@@ -44,5 +50,8 @@ Slides:
 
 Linares, J. (2024, November 14). DMPS as part of local organisation, FAIRness and policy compliance. Zenodo. https://doi.org/10.5281/zenodo.14162304
 
+Video introduction:
+
+Kostadinov., I. (2025). Basics of Data Management Planning. https://www.youtube.com/watch?v=LyVYrilcIpI&list=PL06Unzn1hDrjVAZ0RvNbyQ1Uics9TQ1Kv&index=4
 
 
