@@ -167,6 +167,8 @@ Judith Engel, Ludmilla Figueiredo, Linus Franz, Anahita Kazem, Ivaylo Kostadinov
 
 ## How to cite
 
+Röder, J., Signer, J., Scherreiks, P., Figueiredo, L., Kusch, E., Linares Gómez, J., Müller, W., Nozik, A., Schellenberger Costa, D., Scherer, C., Schindler, U., & Tschink, D. (2025). Template for the NFDI4Biodiversity & iDiv Seasonal School on Data Management in Ecology and Environmental Science 2024 (1.0). Zenodo. https://doi.org/10.5281/zenodo.15585748
+
 ## License
 
 The **markdown texts** in this repository can be used under a [CC BY 4.0 license](https://creativecommons.org/licenses/by/4.0/deed.en). Please note that the licenses on data sets, scripts and other material can be different and more restricted!
