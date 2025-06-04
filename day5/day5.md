@@ -23,6 +23,7 @@ Engel, J., Linares, J., & Kostadinov, I. (2025). Publish Biodiversity Data: The 
 Video PANGAEA Data Submission
 
 Pauli, M. (2025). Data publication and archiving. https://www.youtube.com/watch?v=8ujSrpeb0bs&list=PL06Unzn1hDrjVAZ0RvNbyQ1Uics9TQ1Kv&index=13
+
 Video GFBio Data Submission Service
 
 Engel, J., & Pauli, M. (2025). Data publication with the GFBio Data submission and Brokerage Service, and with PANGAEA. https://www.youtube.com/watch?v=TvSKvLa_b9Q&list=PL06Unzn1hDrjVAZ0RvNbyQ1Uics9TQ1Kv&index=14
