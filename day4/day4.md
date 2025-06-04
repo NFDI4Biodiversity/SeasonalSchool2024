@@ -20,15 +20,27 @@ Slides:
 
 Scherer, C. (2024, Dezember 4). Data Analysis & Visualisation According to FAIR Principles. Zenodo. https://doi.org/10.5281/zenodo.14275834
 
+Video:
+
+Scherer, C. (2025). Data Analysis & Visualisation According to FAIR Principles. https://www.youtube.com/watch?v=iOgdM0atukY&list=PL06Unzn1hDrjVAZ0RvNbyQ1Uics9TQ1Kv&index=11
+
 ## Lecture 8 - Publishing your workflow, analysis, scripts using Jupyter, Git and software management tools
 
 Lecturer: 
 
 Dr. Ludmilla Figueiredo ([German Centre for Integrative Biodiversity Research (iDiv) Halle-Jena-Leipzig](https://www.idiv.de/en))
 
-Material:
+Slides:
+
+Figueiredo, L. (2024). Publishing your (R) workflow: How to get started and where to go next. Zenodo. https://doi.org/10.5281/zenodo.14282399
+
+Further material:
 
 Ludmilla Figueiredo. (2024). ludmillafigueiredo/nfdi4bioschool2024: NFDI4Bio Winter School (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.14281732
+
+Video:
+
+Figueiredo, L. (2025). Publishing your (R) workflow: How to get started and where to go next. https://www.youtube.com/watch?v=YkuYWzifPdM&list=PL06Unzn1hDrjVAZ0RvNbyQ1Uics9TQ1Kv&index=12
 
 ## Practical Session 4 - Jupyter Hub
 
@@ -36,7 +48,7 @@ Lecturer:
 
 Dr. Johannes Signer ([University of Göttingen](https://www.uni-goettingen.de/))
 
-Script:
+Script and training data sets:
 
 day4/practical_session4/scripts/exercise.R
 
