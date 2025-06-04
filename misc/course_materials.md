@@ -1,4 +1,4 @@
-# A. Course materials {#a.-course-materials}
+# A. Course materials
 
 ## A.1 Lecture slides, Jupyter notebooks, and other materials
 
@@ -8,14 +8,14 @@
   * Figueiredo, L. (2024). *Publishing your (R) workflow: How to get started and where to go next*. Zenodo. [https://doi.org/10.5281/zenodo.14282399](https://doi.org/10.5281/zenodo.14282399)  
   * Kostadinov, I., Tschink, D., & Linares Gómez, J. (2025). *Data Management and Data Literacy*. Zenodo. [https://doi.org/10.5281/zenodo.15124025](https://doi.org/10.5281/zenodo.15124025)  
   * Kusch, E. (2025). *Investigating Biodiversity Data Using Open-Access Databases*. Zenodo. [https://doi.org/10.5281/zenodo.15097622](https://doi.org/10.5281/zenodo.15097622)  
-  * Kusch, E. (2024). *NFDI4Biodiversity Seasonal School*. Accessing, handling, and referencing open biodiversity data using the Global Biodiversity Information Facility (GBIF). [\[Accessed 2025-03-31\] https://www.erikkusch.com/courses/gbif/nfdi-download/](https://www.erikkusch.com/courses/gbif/nfdi-download/)  
-  * Linares, J. (2024). *DMPS as part of local organisation, FAIRness and policy compliance*. Zenodo. [https://doi.org/10.5281/zenodo.14162304](%20https://doi.org/10.5281/zenodo.14162304)  
-  * Müller, W. (2024). *Three useful tools to get data in shape* (Version As before held). Zenodo. [https://doi.org/10.5281/zenodo.14269511](%20https://doi.org/10.5281/zenodo.14269511)  
+  * Kusch, E. (2024). *NFDI4Biodiversity Seasonal School*. Accessing, handling, and referencing open biodiversity data using the Global Biodiversity Information Facility (GBIF). Accessed 2025-06-4 [https://www.erikkusch.com/courses/gbif/nfdi-download/](https://www.erikkusch.com/courses/gbif/nfdi-download/)  
+  * Linares, J. (2024). *DMPS as part of local organisation, FAIRness and policy compliance*. Zenodo. [https://doi.org/10.5281/zenodo.14162304](https://doi.org/10.5281/zenodo.14162304)  
+  * Müller, W. (2024). *Three useful tools to get data in shape* (Version As before held). Zenodo. [https://doi.org/10.5281/zenodo.14269511](https://doi.org/10.5281/zenodo.14269511)  
   * Röder, J., Signer, J., Scherreiks, P., Figueiredo, L., Kusch, E., Linares Gómez, J., Müller, W., Nozik, A., Schellenberger Costa, D., Scherer, C., Schindler, U., & Tschink, D. (2025). Template for the NFDI4Biodiversity & iDiv Seasonal School on Data Management in Ecology and Environmental Science 2024 (1.0). Zenodo. [https://doi.org/10.5281/zenodo.15585748](https://doi.org/10.5281/zenodo.15585748)
-  * Schellenberger Costa, D. (2024). *Taxonomic name harmonization*. Zenodo. [https://doi.org/10.5281/zenodo.14273559](%20https://doi.org/10.5281/zenodo.14273559)  
-  * Scherer, C. (2024). *Data Analysis & Visualisation According to FAIR Principles*. Zenodo. [https://doi.org/10.5281/zenodo.14275834](%20https://doi.org/10.5281/zenodo.14275834)  
+  * Schellenberger Costa, D. (2024). *Taxonomic name harmonization*. Zenodo. [https://doi.org/10.5281/zenodo.14273559](https://doi.org/10.5281/zenodo.14273559)  
+  * Scherer, C. (2024). *Data Analysis & Visualisation According to FAIR Principles*. Zenodo. [https://doi.org/10.5281/zenodo.14275834](https://doi.org/10.5281/zenodo.14275834)  
   * Schindler, U. (2024). *Legal aspects in research data management: Data Licensing and Copyright.* Zenodo. [https://doi.org/10.5281/zenodo.14268397](https://doi.org/10.5281/zenodo.14268397)  
-  * Signer, J. (2024). *FAIR tools and processes: Getting started with Jupyter & Git(Hub)*. Zenodo. [https://doi.org/10.5281/zenodo.14262125](%20https://doi.org/10.5281/zenodo.14262125)
+  * Signer, J. (2024). *FAIR tools and processes: Getting started with Jupyter & Git(Hub)*. Zenodo. [https://doi.org/10.5281/zenodo.14262125](https://doi.org/10.5281/zenodo.14262125)
 
 ## A.2 Lecture recordings
 
