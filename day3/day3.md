@@ -16,9 +16,13 @@ Lecturer:
 
 Dr. David Schellenberger Costa ([University of Leipzig](https://www.uni-leipzig.de/))
 
-Material: 
+Slides, Jupyter notebooks and training data sets: 
 
 Schellenberger Costa, D. (2024, Dezember 4). Taxonomic name harmonization. Zenodo. https://doi.org/10.5281/zenodo.14273559
+
+Video:
+
+Schellenberger Costa, D. (2025). Taxonomic name harmonization. https://www.youtube.com/watch?v=EbEBKWq5Cxs&list=PL06Unzn1hDrjVAZ0RvNbyQ1Uics9TQ1Kv&index=7
 
 ## Practical Session 1 (part2) - Creating a Data Management Plan - part 2
 
@@ -34,6 +38,12 @@ Lecturer:
 
 Prof. Dr. Wolfgang Müller ([Heidelberg Institute for Theoretical Studies | HITS](https://www.h-its.org/))
 
-Material:
+Slides, code and training data sets:
 
 Müller, W. (2024, Dezember 3). Three useful tools to get data in shape. Zenodo. https://doi.org/10.5281/zenodo.14269511
+
+Videos:
+
+Müller, W. (2025a). Three useful tools to get data in shape - OpenRefine. https://www.youtube.com/watch?v=xv7usxUH-Ig&list=PL06Unzn1hDrjVAZ0RvNbyQ1Uics9TQ1Kv&index=9
+Müller, W. (2025b). Three useful tools to get data in shape - RightField. https://www.youtube.com/watch?v=JRKmyd4RFEo&list=PL06Unzn1hDrjVAZ0RvNbyQ1Uics9TQ1Kv&index=8
+Müller, W. (2025c). Three useful tools to get data in shape - ReStoRunT. https://www.youtube.com/watch?v=7B0Sg2v02Dc&list=PL06Unzn1hDrjVAZ0RvNbyQ1Uics9TQ1Kv&index=10
